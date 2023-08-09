@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Grandiflora+One&display=swap');
+
+/*
+div.css-zt5igj.e16nr0p32{
+  font-size: 100%;
+  font-family: 'Grandiflora One', serif;
+  color: rgb(118, 118, 118);
+  text-align: center;
+  text-shadow: 3px 3px 10px #838383;
+}
+*/
+
+/* 버튼 크기 지정 */
+button.css-1q8dd3e.edgvbvh9{
+    width: 100%;
+    height: 50px;
+}
+
+.css-1v0mbdj.etr89bj1{
+    margin: auto;
+    width: 60%;
+    height:50%;
+}

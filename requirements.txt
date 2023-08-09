@@ -1,0 +1,4 @@
+pandas
+streamlit
+tmdbv3api
+googletrans
